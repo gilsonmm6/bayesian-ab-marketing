@@ -54,5 +54,5 @@ Dataset: [Marketing A/B Testing — Kaggle](https://www.kaggle.com/datasets/favi
 ## 👤 Autor
 
 **Gilson Machado Monteiro**  
-Data Engineer & BI Analyst | Especialização em Estatística Aplicada (PUC Minas)  
+Data Analyst & BI Analyst | Especialização em Estatística Aplicada (PUC Minas)  
 [LinkedIn](https://linkedin.com/in/gilsonmm6) · [GitHub](https://github.com/gilsonmm6)
