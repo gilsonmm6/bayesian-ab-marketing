@@ -5,6 +5,17 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completo-brightgreen)
 
+## ⚠️ Nota sobre visualização dos notebooks
+
+Os notebooks deste projeto utilizam **PyMC 5** para amostragem MCMC, que gera barras de progresso interativas via `ipywidgets` durante a execução no Google Colab. A partir de 2023, o Colab passou a injetar automaticamente metadados de widgets (`metadata.widgets`) nos arquivos `.ipynb` — metadados que o GitHub não consegue renderizar, exibindo a mensagem "Invalid Notebook".
+
+**Os notebooks funcionam perfeitamente.** Para executá-los:
+
+1. Acesse [Google Colab](https://colab.research.google.com/)
+2. Clique em **Arquivo → Abrir notebook → GitHub**
+3. Cole o link do repositório: `https://github.com/gilsonmm6/bayesian-ab-marketing`
+4. Selecione o notebook desejado e execute
+
 ## 📌 Problema de negócio
 
 Exibir anúncios pagos aumenta a taxa de conversão comparado a anúncios
